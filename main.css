@@ -296,7 +296,7 @@ label{
 	position: absolute;
 	top: 80px;
 	left: 20px;
-	z-index: -1;
+	z-index: +1;
 }
 .tm-reading1-line1{
 	position: absolute;
@@ -335,7 +335,7 @@ label{
 	position: absolute;
 	top: 80px;
 	left: 268px;
-	z-index: -1;
+	z-index: +1;
 }
 .tm-reading2-line1{
 	left: 265px;
@@ -353,7 +353,7 @@ label{
 	position: absolute;
 	top: 80px;
 	left: 518px;
-	z-index: -1;
+	z-index: +1;
 }
 .tm-reading3-line1{
 	left: 520px;
@@ -374,7 +374,7 @@ label{
 	position: absolute;
 	top: 80px;
 	left: 768px;
-	z-index: -1;
+	z-index: +1;
 }
 .tm-reading4-line1{
 	left: 775px;
