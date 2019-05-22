@@ -70,7 +70,7 @@ body{
 	width: 100%;
 }
 .tm-form{
-	width: 310px;
+    width: 310px;
     position: relative;
     margin: 0 30px 30px 0;
     padding: 15px 0 10px 15px;
@@ -95,6 +95,7 @@ body{
 	padding: 10px 15px 20px;
     width: 280px;
     background-color: #ad2826;
+	z-index:2;
 }
 .tm-section1::after{
 	content: " ";
